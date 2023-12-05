@@ -1,3 +1,3 @@
 let name = "cameron"
 
-let myName = 'sean'
+let newName = 'steven'
