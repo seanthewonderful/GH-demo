@@ -1,5 +1,3 @@
 console.log("hello city")
 
-document.createElement("button")
-
-console.log("hi there")
+document.createElement("button2")
